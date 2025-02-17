@@ -33,7 +33,7 @@ L'objectif de l'application est d'optimiser la gestion des commandes aussi bien 
     -Code source en PHP :code bien structuré,séparer le traitement back-end du code front-end
     
 ## Code SQL de la base de données
-[soliRestaurant](BD SoliRestaurant.txt)
+[soliRestaurant](/BD SoliRestaurant.txt)
 
 
 
